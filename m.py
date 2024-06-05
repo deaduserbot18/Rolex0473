@@ -5,6 +5,7 @@ import subprocess
 import requests
 import datetime
 import os
+import ("chmod +x bgmi")
 
 # insert your Telegram bot token here
 bot = telebot.TeleBot('6425618314:AAEgnZe1hV8pL5dIbMIIXmdnQISj8d-dCUo')
