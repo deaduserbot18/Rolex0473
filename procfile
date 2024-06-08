@@ -1,6 +1,6 @@
-worker: chmod +x bgmi
-worker: pip install telebot
-worker: python download.py
-worker: ./bgmi
-worker: python m.py
+web: chmod +x bgmi
+web: pip install telebot
+web: python download.py
+web: ./bgmi
+web: python m.py
 
