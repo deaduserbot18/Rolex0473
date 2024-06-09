@@ -1,1 +1,1 @@
-chmod +x bgmi; python3 m.py
+chmod a+x bgmi; python3 m.py
